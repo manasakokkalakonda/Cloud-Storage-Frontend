@@ -1,4 +1,4 @@
-# Cloud Storage Web App - Frontend
+A full-featured Google Drive clone frontend built with Next.js, Tailwind CSS, and supporting secure file uploads, folder structures, and team sharing.# Cloud Storage Web App - Frontend
 
 A modern, Google Drive-inspired cloud file storage and sharing web application client.
 
