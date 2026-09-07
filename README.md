@@ -5,7 +5,6 @@ A modern, Google Drive-inspired cloud file storage and sharing web application c
 ## Tech Stack
 * **Framework:** React / Vite
 * **Styling:** Tailwind CSS
-* **State & Data:** TanStack Query pattern
 
 ## Features
 * **File Explorer Dashboard:** Google Drive-style layout featuring sidebar navigation (My Drive, Starred, Trash), toolbars, and file/folder grid lists.
