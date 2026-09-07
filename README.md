@@ -1,4 +1,4 @@
-
+ 
  # Cloud-Storage-Frontend
 
 A modern, responsive React (or Next.js) frontend for a cloud storage web application, styled with Tailwind CSS. It communicates with a Node.js/Express REST backend to deliver a Google Drive-like experience featuring secure JWT authentication, dynamic folder navigation, real-time progress file uploads via Multer, and direct cloud retrieval through Supabase storage integration.
