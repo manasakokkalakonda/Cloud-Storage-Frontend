@@ -1,19 +1,23 @@
-**# Cloud Storage Web App - Frontend
+# Cloud Storage Web App - Frontend
 
-This is the frontend client for the Cloud-Based Media Files Storage Service, built as a modern Google Drive clone.
+A modern, Google Drive-inspired cloud file storage and sharing web application client.
 
 ## Tech Stack
-* **Framework:** React with Vite
+* **Framework:** React / Vite
 * **Styling:** Tailwind CSS
-* **Build Tool:** Vite
+* **State & Data:** TanStack Query pattern
 
 ## Features
-* **File Explorer Dashboard:** Clean Google Drive-style layout to view and manage files and folders.
-* **File Viewer (`Fileviewer.jsx`):** Interactive component for viewing and managing stored documents and media.
-* **Upload Management:** Drag-and-drop file support with progress feedback.
-* **Navigation & UI:** Breadcrumb navigation, modals for sharing, and responsive layouts.
+* **File Explorer Dashboard:** Google Drive-style layout featuring sidebar navigation (My Drive, Starred, Trash), toolbars, and file/folder grid lists.
+* **File Management:** Drag-and-drop file uploading with progress monitoring, folder creation, navigation breadcrumbs, and rename/delete operations.
+* **Interactive File Viewer:** Custom file viewer supporting image management, document navigation, and multi-language support (English, Hindi, Telugu).
+* **Sharing & Permissions:** UI dialogs for managing user access roles (Viewer/Editor) and generating public links.
+* 
+* **Real-time Search & Filtering:** Instant search bar filtering and sorting by name, size, and date.
 
 ## Getting Started
+
 1. Install dependencies:
    ```powershell
-   npm install**
+   npm install
+   npm run dev
